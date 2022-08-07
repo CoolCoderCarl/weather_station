@@ -1,11 +1,13 @@
-## DESCRIPTION
+# weather_station
+Small set of hardware programmed for measuring humidity & temperature displayed on screen
 
-Code for temperature and humidity output in screen
-Sensor: DHT11
-Screen: I2C LCD1602
+DHT11 - https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/  
+I2C LCD1602 - https://www.instructables.com/id/How-to-Connect-I2C-Lcd-Display-to-Arduino-Uno/  
 
-## URL
+## Prehistory
+This will be interesting to develop 
 
-DHT11 - https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+> This is cool  
+> (c) Author
 
-I2C LCD1602 - https://www.instructables.com/id/How-to-Connect-I2C-Lcd-Display-to-Arduino-Uno/
+This device will measure just around it.
